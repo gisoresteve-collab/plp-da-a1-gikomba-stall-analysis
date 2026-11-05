@@ -1,12 +1,11 @@
 # plp-da-a1-gikomba-stall-analysis
 PLP Week 1 Data Analytics Assignment – Gikomba Stall Analysis
-# Gikomba Stall Business Analysis
+## Gikomba Stall Business Analysis
 
-Analyst: STEVE OMBEKI GISORE  
-Cohort: 1MillionDevs
-Course: Data Analytics  
-Assignment: Week 1 – PLP Data Analytics
-
+**Analyst:** STEVE OMBEKI GISORE  
+**Cohort:** 1MillionDevs  
+**Course:** Data Analytics  
+**Assignment:** Week 1 – PLP Data Analytics
 ## Project Overview
 
 This project analyses 14 days of sales records and stock information from Wanjiku's fresh-produce stall at Gikomba Market. The objective is to evaluate overall business performance, compare weekly and daily sales patterns, identify products requiring restocking, calculate gross profit margins and provide practical recommendations to support better business decisions. The analysis uses core Python without pandas or NumPy.
